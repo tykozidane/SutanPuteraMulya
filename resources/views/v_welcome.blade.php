@@ -73,7 +73,7 @@
             </div>
           </div>
 
-          <!-- Slide 3 -->
+          <!-- Slide 3 
           <div class="carousel-item" style="background-image: url('img/pb3.jpg');">
             <div class="carousel-container">
               <div class="carousel-content container">
@@ -82,7 +82,7 @@
                 <a href="#about" class="btn-get-started animate__animated animate__fadeInUp scrollto">Read More</a>
               </div>
             </div>
-          </div>
+          </div>-->
 
         </div>
 
@@ -105,7 +105,7 @@
 
         <div class="row no-gutters">
           <div class="col-lg-6 video-box">
-          <iframe width="640" height="395" src="https://www.youtube.com/embed/P3t1iHI_44o" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+          <iframe width="640" height="395" src="https://www.youtube.com/embed/zMOVva0OiVg" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
           <div class="col-lg-6 d-flex flex-column justify-content-center about-content">
 
@@ -232,44 +232,44 @@
 
         <div class="row">
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up">
-            <div class="icon"><i class='bx bx-left-top-arrow-circle bx-flashing-hover' style='color:#00909e'  ></i></div>
+            <div class="icon"><img src="img/serviceimage/ternak.jpg" alt="Avatar" style="width:250px"></div>
             <h4 class="title"><a href="">Pakan Ternak</a></h4>
             <!--<p class="description">Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident</p>
           --></div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon"><i class='bx bx-up-arrow-circle bx-flashing-hover' style='color:#00909e'  ></i></div>
+            <div class="icon"><img src="img/serviceimage/salt.jpg" alt="Avatar" style="width:225px"></div>
             <h4 class="title"><a href="">Penggaraman</a></h4>
             <!--<p class="description">Minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat tarad limino ata</p>
           --></div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="200">
-            <div class="icon"><i class='bx bx-right-top-arrow-circle bx-flashing-hover' style='color:#00909e'  ></i></div>
+            <div class="icon"><img src="img/serviceimage/fabric.jpg" alt="Avatar" style="width:200px"></div>
             <h4 class="title"><a href="">Textile</a></h4>
             <!--<p class="description">Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur</p>
           --></div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="300">
-            <div class="icon"><i class='bx bx-left-arrow-circle bx-flashing-hover' style='color:#00909e'  ></i></div>
+            <div class="icon"><img src="img/serviceimage/worker.jpg" alt="Avatar" style="width:225px"></div>
             <h4 class="title"><a href="">Manufaktur</a></h4>
             <!--<p class="description">Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum</p>
           --></div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="600">
           </div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="400">
-            <div class="icon"><i class='bx bx-right-arrow-circle bx-flashing-hover' style='color:#00909e'  ></i></div>
+            <div class="icon"><img src="img/serviceimage/tambang.jpg" alt="Avatar" style="width:225px"></div>
             <h4 class="title"><a href="">Pertambangan</a></h4>
             <!--<p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
           --></div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="500">
-            <div class="icon"><i class='bx bx-left-down-arrow-circle bx-flashing-hover' style='color:#00909e'  ></i></div>
+            <div class="icon"><img src="img/serviceimage/makanan.jpg" alt="Avatar" style="width:225px"></div>
             <h4 class="title"><a href="">Makanan</a></h4>
             <!--<p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
           --></div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="600">
-            <div class="icon"><i class='bx bx-down-arrow-circle bx-flashing-hover' style='color:#00909e'  ></i></div>
+            <div class="icon"><img src="img/serviceimage/kimia.jpg" alt="Avatar" style="width:225px"></div>
             <h4 class="title"><a href="">Bahan Kimia</a></h4>
             <!--<p class="description">At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque</p>
           --></div>
           <div class="col-lg-4 col-md-6 icon-box" data-aos="fade-up" data-aos-delay="700">
-            <div class="icon"><i class='bx bx-right-down-arrow-circle bx-flashing-hover' style='color:#00909e'  ></i></div>
+            <div class="icon"><img src="img/serviceimage/agri.jpg" alt="Avatar" style="width:300px"></div>
             <h4 class="title"><a href="">Pertanian</a></h4>
             <!--<p class="description">Et harum quidem rerum facilis est et expedita distinctio. Nam libero tempore, cum soluta nobis est eligendi</p>
           --></div>
@@ -499,7 +499,7 @@
 
           <div class=" col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="500">
             <div class="member">
-              <div class="pic"><img src="img/team/team-3.jpg" class="img-fluid" alt=""></div>
+              <div class="pic"><img src="img/alat/heat600.png" class="img-fluid" alt=""></div>
               <div class="member-info">
                 <h4>Heat Exchanger</h4>
                 <span>Alat untuk memindahkan energi panas antara dua atau lebih fluida</span>
